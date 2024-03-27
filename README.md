@@ -1,5 +1,5 @@
 <span align=center >
-<h1>Curriculo-base</h1>
+<h1>Curriculo-base-HTML-CSS</h1>
 
 Com objetivo de ajudar e aprimorar os aprendizados dos alunos de Desenvolvimento de Sistemas em Multiplataforma, o professor Márcio(Desenvolvimento Web 1) sugeriu que criassemos um site básico baseado em nossos currículos, nos apresentando e dizendo nossas qualidades básicas.
 </span>
